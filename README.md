@@ -64,10 +64,7 @@
 
 ---
 
-## How This Will Evolve
-- **Pending Talks:** Once DEF CON publishes the full, official videos, I’ll capture the video link, precise duration, and integrate them into each section above.
-- **Categorization:** I’ve grouped talks into logical buckets (Automotive & Embedded Security, Automotive/IoT & EV, Industrial & Infrastructure, Infrastructure/ICS, Contests, etc.). If you’d like refined topics (e.g., creating an “AppSec” or “Cloud Security” category), just say so and we’ll adjust.
-- **Markdown Readiness:** This layout is ready for you to start annotating or storing notes. It’s primed to become your personal, topic-driven learning path.
+- **Pending Talks:** Once DEF CON publishes the full, official videos, capture the video link, info and relevant supporting docs
 
 ---
 
